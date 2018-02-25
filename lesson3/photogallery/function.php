@@ -11,5 +11,3 @@ function getImages($dir) {
     }
     return $imagesNew;
 }
-
-$images = getImages($dir);

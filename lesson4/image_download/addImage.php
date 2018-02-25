@@ -23,4 +23,3 @@ if (!empty($_FILES)) {
     }
 }
 header('Location: /lesson4/image_download/index.php');
-die;
